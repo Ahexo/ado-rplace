@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/ado1024",
+  "templates": [
+    {
+      "name": "Ado Logo",
+      "sources": [
+        ""
+      ],
+      "x": 633,
+      "y": 1819
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
